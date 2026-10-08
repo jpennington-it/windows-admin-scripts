@@ -1,0 +1,7 @@
+FirstName,LastName,Department,Title,EmployeeID,OU,Groups,Manager
+Jordan,Rivera,IT,Help Desk Technician,100231,"OU=IT,OU=Staff,DC=corp,DC=example,DC=com",GG-IT-Staff;GG-VPN-Users,mlopez
+Jamie,Rivera,Finance,Accounts Payable Specialist,100232,"OU=Finance,OU=Staff,DC=corp,DC=example,DC=com",GG-Finance-Staff,
+Casey,Nguyen,Sales,Account Executive,100233,,GG-Sales-Staff;GG-CRM-Users,
+Morgan,O'Neil,Operations,Logistics Coordinator,100234,,GG-Ops-Staff,
+Renée,Dubois-Martin,Marketing,Content Specialist,100235,"OU=Marketing,OU=Staff,DC=corp,DC=example,DC=com",GG-Marketing-Staff,
+Taylor,,IT,Systems Administrator,100236,,GG-IT-Staff,

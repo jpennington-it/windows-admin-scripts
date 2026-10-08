@@ -1,0 +1,18 @@
+# Script output - never commit generated reports or logs (they can contain real names/hosts)
+logs/
+inventory/
+reports/
+*.log
+*.html
+*.csv
+!samples/*.csv
+
+# Pester / analyzer output
+testResults.xml
+coverage.xml
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
